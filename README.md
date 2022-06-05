@@ -1,8 +1,6 @@
-### Hi there 👋
+### Hello! 👋
 
-**RamGoenka/RamGoenka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My name is Ram Goenka and I am an undergraduate student @ UIUC. Currently I am majoring in Mathematics :smile:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
