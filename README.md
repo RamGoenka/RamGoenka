@@ -6,4 +6,4 @@
 
 - 👀 I am interested in web development, preferably front-end, however I can work on back-end if needed :thumbsup:. I am also interested in Data Science :bar_chart:, and learning more about algorithms and the intersections between Computer Science, Statistics and Mathematics :thought_balloon:
 
-- 💻 Currently learning game developement in Python.
+- 💻 Currently learning game development in Python.
