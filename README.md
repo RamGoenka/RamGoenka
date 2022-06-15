@@ -1,5 +1,7 @@
 ### Hello! 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 - 😄 My name is Ram Goenka (Pronouns: He/Him/His).
 
 - 📝 I am an undergraduate student @ UIUC. I am majoring in Mathematics :1234: and minoring in Computer Science :computer: and Statistics :bar_chart: 
