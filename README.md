@@ -1,4 +1,4 @@
-### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+my+name+is+Ram+Goenka+👋;I+am+interested+in...;Web+developement+🌐;Data+Science+📊;Programming+Languages+💻;Algorithms+✏️;Machine+Learning+🤖)](https://git.io/typing-svg)
+### [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+my+name+is+Ram+Goenka+👋;I+am+interested+in... :eyes:;Web+developement+🌐;Data+Science+📊;Programming+Languages+💻;Algorithms+✏️;Machine+Learning+🤖)](https://git.io/typing-svg)
 
 - 📝 I am an undergraduate student @ University of Illinois Urbana-Champaign. I am majoring in Mathematics :1234: and minoring in Computer Science :computer: and Statistics :bar_chart: 
 
