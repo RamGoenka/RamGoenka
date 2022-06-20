@@ -4,5 +4,6 @@
 
 - 👀 I am interested in web development, preferably front-end, however I can work on back-end if needed :thumbsup:. I am also interested in Data Science :bar_chart:, machine learning, and exploring and learning more about algorithms and the intersections between Computer Science, Statistics and Mathematics :thought_balloon:
 
-- 💻 I also find programming languages very interesting and I am interested in learning more about them!
+- 💻 I also find programming languages very interesting and I am interested in learning more about them and how each one has different methods that help make computing better!
 
+- 😄 I enjoy learning random facts 📚, getting to know the world better and deepening my knowledge about anything from world events, to sciences and technology to learning about history, and just about anything! 
