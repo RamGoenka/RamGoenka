@@ -8,4 +8,3 @@
 
 - 😄 I enjoy learning random facts 📚, getting to know the world better and deepening my knowledge about anything from world events, to sciences and technology, to learning about history, and just about anything! 
 
-[![Rainy's github stats](https://github-readme-stats.vercel.app/api?username=RamGoenka)](https://github.com/RamGoenka/github-readme-stats)
