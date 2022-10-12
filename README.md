@@ -6,5 +6,4 @@
 
 - 💻 I also find programming languages very interesting and I am interested in learning more about them and how each one has different methods that help make computing better!
 
-- 😄 I enjoy learning random facts 📚, getting to know the world better and deepening my knowledge about anything from world events, to sciences and technology, to learning about history, and just about anything! 
 
