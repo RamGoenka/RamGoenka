@@ -1,10 +1,10 @@
 I am interested in:
 
-       - ``Full stack web-development`` as I enjoy working with website code and developing user friendly interfaces
-
-       - ``Data Science and Analytics`` since data is all around us and can help one to learn a lot about a plethora of interesting facts using data. I                also am interesting in utilizing programming languages (mainly Python) to create data visualizations!
+- Full stack web-development: as I enjoy working with website code and developing user friendly interfaces
        
-       - ``Machine Learning and Artificial Intelligence`` 
+- Data Science and Analytics: since data is all around us and can help one to learn a lot about a plethora of interesting facts using data. I                also am interesting in utilizing programming languages (mainly Python) to create data visualizations!
+       
+- Machine Learning and Artificial Intelligence
 
 
 I am currently: 
