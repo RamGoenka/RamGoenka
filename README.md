@@ -8,8 +8,11 @@ I am interested in:
 
 
 I am currently: 
+
     - Working as a web-developer at [NCSA](https://www.ncsa.illinois.edu/) 
+    
     - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
+    
     - Course Assistant for [STAT/CS/IS 107 @ UIUC](https://discovery.cs.illinois.edu/)
 
 Hope you have a great day! :)
