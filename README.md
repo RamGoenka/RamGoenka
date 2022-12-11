@@ -1,4 +1,4 @@
-##I am interested in:
+## I am interested in:
 
        - ``Full stack web-development`` as I enjoy working with website code and developing user friendly interfaces
 
@@ -7,7 +7,7 @@
        - ``Machine Learning and Artificial Intelligence`` 
 
 
-##I am currently: 
+## I am currently: 
     - Working as a web-developer at [NCSA](https://www.ncsa.illinois.edu/) 
     - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
     - Course Assistant for [STAT/CS/IS 107 @ UIUC](https://discovery.cs.illinois.edu/)
