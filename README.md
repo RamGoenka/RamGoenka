@@ -1,12 +1,6 @@
-## I am interested in:
+##Hello! 
 
-- Full stack web-development, as I enjoy working with website code and developing user friendly interfaces (I like working with front-end more but back-end is something I have experience with too :))
-       
-- Data Science and Analytics since data is all around us and can help one to learn a lot about a plethora of interesting facts using data. I                also am interesting in utilizing programming languages (mainly Python) to create data visualizations!
-       
-- Machine Learning and Artificial Intelligence are two fields that I have not yet gotten the chance to dive deep into but will be taking courses in soon to hopefully deepen my knowledge of these fields!
-
-- Theoratical Computer Science, which I gained interest in after taking the course in Data Structures and Algorithms, where I particularly enjoyed the theory based content on graph traversals and how the various data structures work :)
+My name is Ram Goenka and I am currently an undergraduate student @ UIUC majoring in Mathematics and minoring in Computer Science and Statistics. Some of the things that I am interested in are learning more about machine learning concepts, web-development (full stack), data analytics and statistics. I enjoy working with data science tools and interpreting data.
 
 
 ## I am currently: 
