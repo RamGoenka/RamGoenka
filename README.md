@@ -4,7 +4,7 @@ My name is Ram Goenka and I am currently an undergraduate student @ UIUC majorin
 
 ## 📝 I am currently: 
 
-   - Working as a web-developer at [NCSA](https://www.ncsa.illinois.edu/) 
+   - Working as a software-developer at [NCSA](https://www.ncsa.illinois.edu/) 
     
    - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
     
