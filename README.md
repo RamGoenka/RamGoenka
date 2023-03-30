@@ -1,6 +1,6 @@
 ## :wave: Hello!
 
-I am an undergraduate student at the University of Illinois Urbana-Champaign studying mathematics. I am interested in topics such as artificial intelligence, machine learning, computer vision, deep learning, data science and analytics, number theorey, abstract algebra, computational mathematics and algorithms. 
+I am an undergraduate student at the University of Illinois Urbana-Champaign studying mathematics. I am interested in learning and exploring more about topics in abstract algebra, artificial intelligence, algorithms, computer vision, deep learning, data science and analytics, number theory and programming methods. Feel free to check out my projects and personal website (linked on my profile)!
 
 ## 📝 I am currently: 
 
