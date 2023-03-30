@@ -1,6 +1,6 @@
 ## :wave: Hello!
 
-I am interested in exploring and learning more about computational topics such as Machine Learning, Artifical Intelligence, Data Science + Analytics, Theory and Mathematical topics involving Number Theory and Algebra. 
+I am currently an undergraduate student at the University of Illinois Urbana-Champaign studying mathematics. I am interested in topics such as artificial intelligence, machine learning, computer vision, deep learning, data science and analytics, number theorey, abstract algebra, computational mathematics and algorithms. 
 
 ## 📝 I am currently: 
 
