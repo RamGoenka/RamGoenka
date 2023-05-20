@@ -6,11 +6,14 @@ I am an undergraduate student at the University of Illinois Urbana-Champaign dou
 
    - Working as a software-developer at [NCSA](https://www.ncsa.illinois.edu/) 
     
-   - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
-    
    - Course Assistant for [STAT/CS/IS 107 @ UIUC](https://discovery.cs.illinois.edu/)
 
 ## 👨🏽‍💻 This summer I will be: 
    - Working at [Country Financial](https://www.countryfinancial.com/) as a Software Engineering Intern
+
+## 😎 Past:
+
+   - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
+
    
 Hope you have a great day! :)
