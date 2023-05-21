@@ -2,7 +2,7 @@
 
 I am an undergraduate student at the University of Illinois Urbana-Champaign double majoring in Mathematics and Economics along with minors in Computer Science and Statistics. I am interested in learning and exploring more about topics in abstract algebra, artificial intelligence, algorithms, computer vision, deep learning, data science and analytics, number theory and programming methods. Feel free to check out my projects and personal website (linked on my profile)!
 
-## 📝 I am currently: 
+## 😎 I am currently: 
 
    - Working as a software-developer at [NCSA](https://www.ncsa.illinois.edu/) 
     
@@ -11,7 +11,7 @@ I am an undergraduate student at the University of Illinois Urbana-Champaign dou
 ## 👨🏽‍💻 This summer I will be: 
    - Working at [Country Financial](https://www.countryfinancial.com/) as a Software Engineering Intern
 
-## 😎 Past:
+## 📝 Past:
 
    - Course Associate for [CS 124 @ UIUC](https://www.cs124.org/)
 
