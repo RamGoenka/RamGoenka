@@ -8,7 +8,7 @@ I am an undergraduate student at the University of Illinois Urbana-Champaign dou
     
    - Course Assistant for [STAT/CS/IS 107 @ UIUC](https://discovery.cs.illinois.edu/)
 
-## 👨🏽‍💻 This summer I will be: 
+## 👨🏽‍💻 This summer I am: 
    - Working at [COUNTRY Financial](https://www.countryfinancial.com/) as a Software Engineering Intern
 
 ## 📝 Past:
