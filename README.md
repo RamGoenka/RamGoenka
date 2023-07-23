@@ -1,4 +1,4 @@
-## :wave: Hello!
+## :wave: Hello :)
 
 I am an undergraduate student at the University of Illinois Urbana-Champaign majoring in Mathematics and minoring in Computer Science & Statistics. 
 
