@@ -1,6 +1,6 @@
 ## :wave: Hello :)
 
-I am an undergraduate student at the University of Illinois Urbana-Champaign majoring in Mathematics and minoring in Computer Science & Statistics. 
+I am an undergraduate student (rising junior) at the University of Illinois Urbana-Champaign. I am majoring in Mathematics and minoring in Computer Science & Statistics. 
 
 ## 👨🏽‍💻 I am currently: 
 
