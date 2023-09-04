@@ -2,7 +2,7 @@
 
 I am an undergraduate student (rising junior) at the University of Illinois Urbana-Champaign. I am majoring in Mathematics and minoring in Computer Science & Statistics. 
 
-## :man_technologist_tone3: : I am currently: 
+## 👨🏽‍💻 I am currently: 
 
    - Working as a software-developer at [NCSA](https://www.ncsa.illinois.edu/) 
     
